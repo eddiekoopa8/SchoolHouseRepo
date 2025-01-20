@@ -446,6 +446,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e73443892bc9ad4c94d08a00b2c4d03, type: 3}
+--- !u!4 &86877535 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2377725206591756423, guid: 4e73443892bc9ad4c94d08a00b2c4d03, type: 3}
+  m_PrefabInstance: {fileID: 86877534}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &98876031
 GameObject:
   m_ObjectHideFlags: 0
@@ -1008,6 +1013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NumObject (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7236704064527465809, guid: 0d49a8945d934774ca422b52ce8506ca, type: 3}
+      propertyPath: cameraTransform
+      value: 
+      objectReference: {fileID: 86877535}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1638,6 +1647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NumObject
       objectReference: {fileID: 0}
+    - target: {fileID: 7236704064527465809, guid: 0d49a8945d934774ca422b52ce8506ca, type: 3}
+      propertyPath: cameraTransform
+      value: 
+      objectReference: {fileID: 86877535}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
